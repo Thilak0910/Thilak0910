@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently pursuing my Electronics and Communication Degree.<br><br>👯 I’m much more interested in working on AI&ML projects.<br><br>🤝 I’m looking for projects related to AI&ML, Deep Learning that I can help with.<br><br>⚡ "Life was much easier when Apple and Blackberry were just fruits."
+🔭 <br><br>AI&ML enthusiast.<br><br> "Life was much easier when Apple and Blackberry were just fruits."
 
 
 ## 🌐 Socials:
