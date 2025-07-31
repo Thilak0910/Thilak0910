@@ -32,7 +32,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Thilak0910&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Thilak0910&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thilak0910&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
